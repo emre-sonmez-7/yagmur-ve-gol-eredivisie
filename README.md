@@ -48,7 +48,7 @@ Hollanda liginde oynanan maçların verisini günlük hava durumu verisiyle birl
 
 ```
 ├── README.md
-├── veri/          # hava verisini toplayan betik ve veri dosyaları
+├── data/          # hava verisini toplayan betik ve veri dosyaları
 ├── sorgular/      # her analiz için SQL dosyası ve CSV sonucu
 └── dashboard/
 ```
