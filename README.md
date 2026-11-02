@@ -5,8 +5,9 @@ Hollanda ligi maçları ve günlük hava verisiyle yağmurun gol sayısına etki
 
 > **English summary:** Exploratory SQL analysis joining Dutch Eredivisie matches (2,448 matches, 2008/09–2015/16) with daily weather data collected from the Open-Meteo API with Python. Days with 5 mm or more rain have about 0.3 more goals per match; home win rate is unaffected.
 
+<img width="1212" height="643" alt="image" src="https://github.com/user-attachments/assets/ac24e63d-89ce-4e53-85b7-256bc3f270d8" />
 
-> **Not:** Dashboard görseli (`dashboard/dashboard.png`) eklenecek.
+
 
 ## Proje Ne Hakkında?
 
